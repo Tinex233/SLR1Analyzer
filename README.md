@@ -89,5 +89,8 @@ C++程序设计语言
 >   A->(A)   
     A->a
 
+---
 ui界面
-![屏幕截图 2024-01-14 175542](https://github.com/Tinex233/SLR1Analyzer/assets/128806135/425cb292-b1a6-49a6-98fd-30644435cc0a)
+![1](https://github.com/Tinex233/SLR1Analyzer/assets/128806135/728cacf5-19d0-4fb3-9317-d3c318647974)
+
+
